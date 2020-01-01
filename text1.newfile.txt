@@ -20,3 +20,6 @@ git remote rm upstream
 
 NEW BRANCH test1 is created
 
+NEW BRANCH test2 is created
+NEW BRANCH test1 is created
+
