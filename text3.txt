@@ -1,1 +1,2 @@
 The file text3.txt is created and commit is done.
+" The missing extension '.txt' is added in the text3 file."
