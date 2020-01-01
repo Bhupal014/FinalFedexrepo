@@ -8,7 +8,9 @@ Happy new year
 .This flie is updated number of times
 .This is the final update on dated 01/01/2020
 
-
+Finally to commit any change to the particular repository you need to clone that ropo
+and you can commit and push on this repo
+000000000000000000000000000000000000000000000
 .1111111111111111111111111111111111111111111111
 .222222222222222222222222222222222222222222222222222 repo created and commit is ready
 .
