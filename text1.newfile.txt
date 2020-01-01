@@ -15,5 +15,5 @@ and you can commit and push on this repo
 .222222222222222222222222222222222222222222222222222 repo created and commit is ready
 .
 New repository created and added to the remote github.
-
+git remote rm upstream
 
